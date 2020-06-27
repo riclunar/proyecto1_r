@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">proyecto1_r</string>
+    <string name="titulo">Proyecto 1</string>
+    <string name="hMatricula">Ingresa Matricula</string>
+    <string name="hNombre">Ingresa Nombre</string>
+    <string name="hCorreo">Ingresa Correo</string>
+    <string name="hPromedio">Ingresa Promedio</string>
+    <string name="bGrabar">Grabar</string>
+    <string name="dMatricula">Matrícula</string>
+    <string name="dNombre">Nombre</string>
+    <string name="dCorreo">Correo</string>
+    <string name="dPromedio">Promedio</string>
+</resources>
